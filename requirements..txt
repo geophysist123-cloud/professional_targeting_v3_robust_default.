@@ -1,6 +1,10 @@
 streamlit
 pandas
+numpy
+plotly
 openpyxl
-folium
-streamlit-folium
+matplotlib
+scipy
 pyproj
+folium
+streamlit_folium
